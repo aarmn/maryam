@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------
-# Copyright (c) 2019, AARMN The Limitless.
+# Copyright (c) 2019, Singularity Team
 #
 # Distributed under the terms of MIT License.
 #
